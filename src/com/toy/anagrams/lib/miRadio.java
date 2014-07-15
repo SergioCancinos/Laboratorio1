@@ -9,7 +9,6 @@
 
 
 */
-
 //package com.toy.anagrams.lib;
 public class miRadio implements Radio{
 	private boolean estado, amfm;
