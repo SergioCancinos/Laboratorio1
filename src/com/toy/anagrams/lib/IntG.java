@@ -1,7 +1,7 @@
 /*
 	Sergio Cancinos 13062
-	Johnny del Cid
-        Ana Bartra
+	Johnny del Cid 13032
+        Ana Bartra 13434
 	
 	IntG.java
 	Se encarga de crear la interfaz gr�fica con la cual interactua el usuario mostrando los diferentes elementos de dicha clase. 
